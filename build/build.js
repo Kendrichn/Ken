@@ -8,7 +8,7 @@ var fileConf = require('./files.conf.js')
 var CSSJSfiles = fileConf.CSSJSfiles;
 
 nowDate = new Date();
-nowDateStr = nowDate.toISOString().slice(0, 10).replace(/-/g, "");
+nowDar = nowDate.toISOString().slice(0, 10).replace(/-/g, "");
 
 // remove preceding compressed files
 rm('-rf', 'static/assets/*.min.js');
@@ -20,10 +20,10 @@ cp('-f', 'node_modules/font-mfizz/dist/font-mfizz.ttf', 'static/assets/');
 cp('-f', 'node_modules/font-mfizz/dist/font-mfizz.woff', 'static/assets/');
 
 // change link/src files to new file path
-sed('-i', /(.*)[0-9]{8}(.*)/, '$1' + nowDateStr + '$2', '_includes/index_head.html');
-sed('-i', /(.*)[0-9]{8}(.*)/, '$1' + nowDateStr + '$2', '_includes/head.html');
-sed('-i', /(.*)[0-9]{8}(.*)/, '$1' + nowDateStr + '$2', '_includes/category.html');
-sed('-i', /(.*)[0-9]{8}(.*)/, '$1' + nowDateStr + '$2', '404.html');
+sed('-i', /(.*)[0-9]{8}(.*)/, '$1' + nowDar + '$2', '_includes/index_head.html');
+sed('-i', /(.*)[0-9]{8}(.*)/, '$1' + nowDar + '$2', '_includes/head.html');
+sed('-i', /(.*)[0-9]{8}(.*)/, '$1' + nowDar + '$2', '_includes/category.html');
+sed('-i', /(.*)[0-9]{8}(.*)/, '$1' + nowDar + '$2', '404.html');
 
 
 // compress js files function
@@ -81,11 +81,11 @@ function compresscss(pagename, filename, filelist) {
 
 for (i = 0; i < CSSJSfiles.length; i++) {
     if (CSSJSfiles[i].type == 'css') {
-        var filename = CSSJSfiles[i].prefix + nowDateStr + '.min.css'
+        var filename = CSSJSfiles[i].prefix + nowDar + '.min.css'
         compresscss(CSSJSfiles[i].name, filename, CSSJSfiles[i].list)
     }
     if (CSSJSfiles[i].type == 'js') {
-        var filename = CSSJSfiles[i].prefix + nowDateStr + '.min.js'
+        var filename = CSSJSfiles[i].prefix + nowDar + '.min.js'
         compressjs(CSSJSfiles[i].name, filename, CSSJSfiles[i].list)
     }
 }
