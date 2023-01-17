@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
-date:   2017-01-31
-desc: "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
-keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
+title:  "Climbing Anchors"
+date:   2023-01-17
+desc: "How to Set Up a Climbing Anchor"
+keywords: "Rock Climbing Anchor,Top Rope Anchor,Quick Draw Anchor, Nylon Sling Anchor"
 categories: [HTML]
-tags: [Jalpc,Jekyll]
+tags: [Rock Climbing,Outdoor]
 icon: icon-html
 ---
