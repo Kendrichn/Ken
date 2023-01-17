@@ -6,17 +6,17 @@
 - name: Adventure
   href: /adventure/
 
-- name: Linux
-  href: /linux/
+- name: Travel
+  href: /travel/
 
-- name: HTML
-  href: /html/
+- name: Health
+  href: /health/
 
-- name: Database
-  href: /database/
+- name: Books
+  href: /books/
 
-- name: Mac
-  href: /mac/
+- name: Hobbies
+  href: /hobbies/
 
 - name: Life
   href: /life/
