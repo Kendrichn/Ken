@@ -8,5 +8,6 @@ categories: [Test2]
 tags: [Rock Climbing,Outdoor]
 icon: icon-html
 ---
-<!-- ![edit]({{ site.img_path }}/Sample/sample-image.jpg) -->
+
+	<!-- ![edit]({{ site.img_path }}/Sample/sample-image.jpg) -->
 	<img src="{{ site.img_path }}/Sample/sample-image.jpg" width="75%">
