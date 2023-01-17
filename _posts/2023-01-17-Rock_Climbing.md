@@ -8,7 +8,9 @@ categories: [Test2]
 tags: [Rock Climbing,Outdoor]
 icon: icon-html
 ---
-<!-- ![edit]({{ site.img_path }}/Sample/sample-image.jpg) -->
-<img src="{{ site.img_path }}/Sample/sample-image.jpg" width="75%">
+
+The dog picture
+	<!-- ![edit]({{ site.img_path }}/Sample/sample-image.jpg) -->
+	<img src="{{ site.img_path }}/Sample/sample-image.jpg" width="75%">
 	
 1. Enter into repository directory and edit following file list:
