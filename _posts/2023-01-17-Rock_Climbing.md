@@ -9,8 +9,7 @@ tags: [Rock Climbing,Outdoor]
 icon: icon-html
 ---
 
-The dog picture
-
+The dog picture.
 	<!-- ![edit]({{ site.img_path }}/Sample/sample-image.jpg) -->
 	<img src="{{ site.img_path }}/Sample/sample-image.jpg" width="75%">
 	
