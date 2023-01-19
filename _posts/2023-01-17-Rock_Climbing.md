@@ -32,5 +32,5 @@ In order to create a top-rope anchor system, there must be two bolts present at 
  1. On A Bight: A knot tied using a bight of rope.
  - A bight of rope is an open loop of rope between two ends. It is
 
-[![Bight.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bight.jpg/1200px-Bight.jpg) width="75%" ](https://commons.wikimedia.org/wiki/File:Bight.jpg#/media/File:Bight.jpg)  
+[![Bight.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bight.jpg/1200px-Bight.jpg)](https://commons.wikimedia.org/wiki/File:Bight.jpg#/media/File:Bight.jpg =100x20)  
 By David J. Fred - Transferred from <span class="plainlinks"><a class="external text" href="https://en.wikipedia.org">en.wikipedia</a></span> to Commons. (<span lang="en" dir="ltr">Original text: Self-created, <a href="https://en.wikipedia.org/wiki/Nikon\_D70" class="extiw" title="en:Nikon D70">en:Nikon D70</a>, uploaded by creator of image</span>), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5 "Creative Commons Attribution-Share Alike 2.5"), [Link](https://commons.wikimedia.org/w/index.php?curid=1927153)
