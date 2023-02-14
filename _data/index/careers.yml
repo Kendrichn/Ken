@@ -1,17 +1,17 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: Company A
-    i18n: company_a
+- name: Ken
+    detail: Connecticut
+    i18n: 
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Allie and I will be heading to Connecticut for our friends' wedding. We will fly into Salem, MA and then explore
+    i18n: 
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: May 2023
+    i18n:
   job:
     detail: CTO
-    i18n: company_a_job
+    i18n:
   icon: fa-plus-square
   present: true
 
