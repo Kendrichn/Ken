@@ -3,8 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: AllTrails
   i18n: 
-  gh_user: 
-  repo: 
+  url: https://alltrails.com/members/kendrich-nagel-1?utm_campaign=mobile-android
   img: /static/assets/img/landing/trail_logo.jpg
   desc: Access My AllTrails Profile
 
