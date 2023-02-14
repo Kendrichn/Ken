@@ -5,14 +5,13 @@
   i18n: 
   url: https://alltrails.com/members/kendrich-nagel-1?utm_campaign=mobile-android
   img: /static/assets/img/landing/trail_logo.jpg
-  desc: Access My AllTrails Profile
+  desc: My Hikes
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Mountain Project
+  i18n:
+  url: https://www.mountainproject.com/user/201532848/kendrich-nagel
+  img: /static/assets/img/landing/mtnproject.png
+  desc: My Climbs
 
 - name: Google
   i18n: google
