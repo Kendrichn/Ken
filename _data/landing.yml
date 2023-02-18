@@ -12,12 +12,6 @@
   tpl: futureplans.html
   css: timeline
 
-- id: interests
-  i18n: nav.interests
-  name: Interests
-  tpl: interests.html
-  css: team
-
 - id: projects
   i18n: nav.projects
   name: Projects
