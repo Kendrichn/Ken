@@ -13,8 +13,8 @@
   img: /static/assets/img/landing/mtnproject.png
   desc: My Climbs
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: GoodReads
+  i18n: 
+  url: https://www.goodreads.com/user/show/158819904-kendrich
+  img: /static/assets/img/landing/goodreads.png
+  desc: My Books
