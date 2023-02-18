@@ -28,9 +28,8 @@
     detail:
     i18n:
   icon: fa-plus-square
-  present: true
   
-  - name:
+ - name:
     detail: Montana, Washington, Alaska
     i18n:
   desc:
@@ -43,4 +42,3 @@
     detail:
     i18n:
   icon: fa-plus-square
-  present: true
