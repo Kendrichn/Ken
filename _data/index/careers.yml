@@ -10,7 +10,7 @@
     detail: May 2023
     i18n:
   job:
-    detail:
+    detail: Hey
     i18n:
   icon: fa-plus-square
   present: true
@@ -25,11 +25,11 @@
     detail: July 2023
     i18n:
   job:
-    detail:
+    detail: HEY
     i18n:
   icon: fa-plus-square
   
- - name:
+- name:
     detail: Montana, Washington, Alaska
     i18n:
   desc:
@@ -39,6 +39,6 @@
     detail: September 2023
     i18n:
   job:
-    detail:
+    detail: Hey
     i18n:
   icon: fa-plus-square
