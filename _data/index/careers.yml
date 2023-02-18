@@ -1,30 +1,46 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Connecticut
+    detail: Boston, Connecticut, Rhode Island
     i18n: 
   desc:
-    detail: Allie and I will be heading to Connecticut for our friends' wedding. We will fly into Salem, MA and then explore
+    detail: Allie and I will be heading to Connecticut for our friends' wedding. We will fly into Boston, MA and explore Salem for the day. Then we'll trek southwest to Hartford. We'll Finish off the last leg of the trip in Mystic, CT and Providence, RI.
     i18n: 
   date:
     detail: May 2023
     i18n:
   job:
-    detail: CTO
+    detail:
     i18n:
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: New Jersey
+    i18n:
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: We are headed to
+    i18n:
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: July 2023
+    i18n:
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail:
+    i18n:
   icon: fa-plus-square
+  present: true
+  
+  - name:
+    detail: Montana, Washington, Alaska
+    i18n:
+  desc:
+    detail: Wedding Season. Allie and I will travel to Glacier National Park in Montana for our Bachelor/Bachelorette party. We'll then head west to Spokane, WA for our wedding before our big send-off from Seattle on our Alaskan Honeymoon Cruise.
+    i18n:
+  date:
+    detail: September 2023
+    i18n:
+  job:
+    detail:
+    i18n:
+  icon: fa-plus-square
+  present: true
