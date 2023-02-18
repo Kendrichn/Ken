@@ -12,9 +12,9 @@
   tpl: futureplans.html
   css: timeline
 
-- id: projects
-  i18n: nav.projects
-  name: Projects
+- id: follow
+  i18n: 
+  name: Follow
   tpl: projects.html
   css: project
 
