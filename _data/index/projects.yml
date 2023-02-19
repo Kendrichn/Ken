@@ -22,5 +22,5 @@
 - name: Travel Bucket List
   i18n: 
   url: https://www.google.com/maps/d/edit?mid=1qWSltC6I4lb-xjI76xpWDAfCN3YJY2g&usp=sharing
-  img: /static/assets/img/landing/goodreads.png
+  img: /static/assets/img/landing/google.png
   desc: Travel Bucket List
