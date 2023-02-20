@@ -2404,15 +2404,15 @@ body {
   }
   .navbar-default {
     &.navbar-scroll {
-      background-color: #fff;
-      border-color: #fff;
+      background-color: #ffff00;
+      border-color: #ffff00;
       padding: 15px 0;
     }
-    background-color: transparent;
-    border-color: transparent;
+    background-color: #ffff00;
+    border-color: #ffff00;
     transition: all .3s ease-in-out 0s;
     .nav li a {
-      color: #fff;
+      color: #000000;
       font-family: 'Open Sans', helvetica, arial, sans-serif;
       font-weight: 700;
       letter-spacing: 1px;
@@ -2428,23 +2428,23 @@ body {
     .navbar-nav > {
       .active > a {
         background: 0 0;
-        color: #fff;
+        color: #000000;
         border-top: 6px solid #3385FF;
         &:hover {
           background: 0 0;
-          color: #fff;
+          color: #000000;
           border-top: 6px solid #3385FF;
         }
       }
       li > a {
         &:focus, &:hover {
           color: #3385FF;
-          background: #f6f6f6;
+          background: #000000;
         }
       }
       .active > a:focus {
         background: 0 0;
-        color: #fff;
+        color: #000000;
       }
     }
     &.navbar-scroll .navbar-nav > .active > a:focus {
@@ -2453,14 +2453,14 @@ body {
     }
     .navbar-brand {
       &:focus, &:hover {
-        background: #3385FF;
-        color: #fff;
+        background: #BAB86c;
+        color: #000000;
       }
-      color: #fff;
+      color: #000000;
       height: auto;
       display: block;
       font-size: 14px;
-      background: #3385FF;
+      background: #BAB86C;
       padding: 15px 20px;
       border-radius: 0 0 5px 5px;
       font-weight: 700;
@@ -2468,15 +2468,15 @@ body {
     }
   }
   .navbar-scroll.navbar-default .nav li a {
-    color: #676a6c;
+    color: #000000;
     &:hover {
-      color: #3385FF;
+      color: #BAB86C;
     }
   }
   .navbar-wrapper .navbar.navbar-scroll {
     padding-top: 0;
     padding-bottom: 0;
-    border-bottom: 1px solid #e7eaec;
+    border-bottom: 1px solid #BAB86c;
     border-radius: 0;
   }
   .nav > li {
@@ -2494,7 +2494,7 @@ body {
   .navbar-fixed-top {
     border: none !important;
     &.navbar-scroll {
-      border-bottom: 1px solid #e7eaec !important;
+      border-bottom: 1px solid #BAB86C !important;
     }
   }
   .navbar.navbar-scroll .navbar-brand {
@@ -2752,7 +2752,7 @@ body {
     }
     .navbar-default {
       background-color: transparent;
-      border-color: #fff;
+      border-color: #000000;
       padding: 15px 0;
       .navbar-nav > .active > a:focus {
         background: 0 0;
