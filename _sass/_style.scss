@@ -57,7 +57,7 @@ h3, h4, h5 {
 
 .navbar-default .nav > li > a {
   &:focus, &:hover {
-    background-color: #293846;
+    background-color: #BAB86C;
     color: #000;
   }
 }
@@ -81,7 +81,7 @@ h3, h4, h5 {
 }
 
 .navbar-default {
-  border-color: #2f4050;
+  border-color: #BAB86C;
 }
 
 .navbar-top-links li {
@@ -110,8 +110,8 @@ h3, h4, h5 {
 }
 
 .nav > li.active {
-  border-left: 4px solid #3385FF;
-  background: #293846;
+  border-left: 4px solid #BAB86C;
+  background: #BAB86C;
 }
 
 .nav-header {
@@ -154,10 +154,10 @@ h3, h4, h5 {
 
 .navbar-default .landing_link a {
   background: #BAB86C;
-  color: #000;
+  color: #000000;
   &:hover {
     background: #BAB86C !important;
-    color: #000;
+    color: #000000;
   }
   span.label {
     background: #FFFF00;
@@ -167,13 +167,13 @@ h3, h4, h5 {
 
 .navbar-fixed-top {
   transition-duration: .4s;
-  border-bottom: 1px solid #e7eaec !important;
+  border-bottom: 1px solid #BAB86C !important;
   z-index: 2030;
-  background: #f3f3f4;
+  background: #BAB86C;
 }
 
 .navbar-static-top {
-  background: #f3f3f4;
+  background: #BAB86C;
 }
 
 .fixed-nav #wrapper {
@@ -211,7 +211,7 @@ body.canvas-menu .nav-header {
 
 .white-bg {
   .navbar-fixed-top, .navbar-static-top {
-    background: #fff;
+    background: #000000;
   }
 }
 
@@ -231,10 +231,10 @@ body.canvas-menu .nav-header {
       }
     }
     &.active {
-      background: #fff;
+      background: #000000;
       border: none;
       > a {
-        color: #3385FF;
+        color: #BAB86C;
       }
     }
   }
@@ -256,8 +256,8 @@ body.canvas-menu .nav-header {
 }
 
 .top-navigation .navbar-brand {
-  background: #3385FF;
-  color: #fff;
+  background: #BAB86C;
+  color: #000000;
   padding: 15px 25px;
 }
 
@@ -305,8 +305,8 @@ body.canvas-menu .nav-header {
 }
 
 .navbar-toggle {
-  background-color: #3385FF;
-  color: #fff;
+  background-color: #BAB86C;
+  color: #000000;
   padding: 6px 12px;
   font-size: 14px;
 }
