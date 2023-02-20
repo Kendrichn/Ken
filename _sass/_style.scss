@@ -51,20 +51,20 @@ h3, h4, h5 {
     color: #999c9e;
   }
   > li.active > a {
-    color: #fff;
+    color: #000;
   }
 }
 
 .navbar-default .nav > li > a {
   &:focus, &:hover {
     background-color: #293846;
-    color: #fff;
+    color: #000;
   }
 }
 
 .nav.navbar-top-links > li > a {
   &:focus, &:hover {
-    background-color: transparent;
+    background-color: #BAB86C;
   }
 }
 
