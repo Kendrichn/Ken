@@ -831,7 +831,7 @@ button.dim:active:before {
   }
 }
 
-.glyphicon.fa {
+.glyph.fa {
   font-family: FontAwesome;
 }
 
@@ -2628,11 +2628,11 @@ body {
   .social-icon a {
     background: #BAB86C;
     color: #fff;
-    padding: 4px 8px;
+    padding: 7px 5px;
     height: 50px;
     width: 50px;
     display: block;
-    border-radius: 50px;
+    border-radius: 25px;
     &:hover {
       background: #BAB86C;
     }
