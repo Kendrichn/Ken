@@ -2428,11 +2428,11 @@ body {
     .navbar-nav > {
       .active > a {
         background: 0 0;
-        color: #000000;
+        color: #fff;
         border-top: 6px solid #3385FF;
         &:hover {
           background: 0 0;
-          color: #000000;
+          color: #fff;
           border-top: 6px solid #3385FF;
         }
       }
@@ -2476,7 +2476,7 @@ body {
   .navbar-wrapper .navbar.navbar-scroll {
     padding-top: 0;
     padding-bottom: 0;
-    border-bottom: 1px solid #BAB86c;
+    border-bottom: 1px solid #fff;
     border-radius: 0;
   }
   .nav > li {
@@ -2494,7 +2494,7 @@ body {
   .navbar-fixed-top {
     border: none !important;
     &.navbar-scroll {
-      border-bottom: 1px solid #BAB86C !important;
+      border-bottom: 1px solid #fff !important;
     }
   }
   .navbar.navbar-scroll .navbar-brand {
