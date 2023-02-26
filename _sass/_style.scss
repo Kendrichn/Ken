@@ -167,7 +167,7 @@ h3, h4, h5 {
 
 .navbar-fixed-top {
   transition-duration: .4s;
-  border-bottom: 1px solid #BAB86C !important;
+  border-bottom: 1px solid #fff !important;
   z-index: 2030;
   background: #BAB86C;
 }
@@ -2428,12 +2428,12 @@ body {
     .navbar-nav > {
       .active > a {
         background: 0 0;
-        color: #000;
-        border-top: 6px solid #BAB86c;
+        color: #fff;
+        border-top: 6px solid transparent;
         &:hover {
           background: 0 0;
           color: #fff;
-          border-top: 6px solid #3385FF;
+          border-top: 6px solid transparent;
         }
       }
       li > a {
