@@ -57,8 +57,8 @@ h3, h4, h5 {
 
 .navbar-default .nav > li > a {
   &:focus, &:hover {
-    background-color: #BAB86C;
-    color: #000;
+    background-color: #fff;
+    color: #fff;
   }
 }
 
@@ -2438,13 +2438,13 @@ body {
       }
       li > a {
         &:focus, &:hover {
-          color: #3385FF;
-          background: #000000;
+          color: #fff;
+          background: #fff;
         }
       }
       .active > a:focus {
         background: 0 0;
-        color: #000000;
+        color: #fff;
       }
     }
     &.navbar-scroll .navbar-nav > .active > a:focus {
