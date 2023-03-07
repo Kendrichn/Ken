@@ -12,7 +12,6 @@ layout: default
                         	<a class="btn btn-white btn-xs" href="{{ category | downcase | prepend: '/' | prepend: site.baseurl }}">{{ category }}</a>
                         {% endfor %}
                     </div>
-                    <img src="{{ site.author.avatar_all | prepend: site.baseurl }}" height="250" width="250" class="img-responsive img-circle" alt="">
                     <div class="text-center article-title">
                     <span class="text-muted"><i class="fa fa-clock-o"></i> {{ page.date | date: "%-d %b %Y" }}</span>
                         <h1>
