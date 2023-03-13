@@ -32,7 +32,7 @@ $(function(){
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="ibox">
                         <div class="ibox-content">
-                          <img src="{{ post.image }}" height="250" width="250" class="img-responsive img-circle" alt="">
+                           {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
                             <a href="{{ post.url | prepend: site.baseurl }}" class="btn-link">
                                 <h2>{{ post.title }}</h2>
                             </a>
