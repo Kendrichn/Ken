@@ -4,7 +4,7 @@ title:  "Resources"
 date:   2023-10-22
 desc: "Resources"
 keywords: "Business"
-categories: [Finance]
+categories: [Resources]
 tags: [Business,Finance]
 icon: icon-html
 featured-image: route-of-the-hiawatha-trail-idaho-3.jpg
