@@ -18,26 +18,12 @@ Here are just a few of the LCC letters and their corresponding subjects:
 1. B - Philosophy, Psychology, Religion
 2. HF - Commerce, Business, Marketing
 3. QA - Mathematics
-4. PS - American Literature
-5. QH - Natural History, Biology
-6. RC - Internal Medicine, Psychiatry
-7. TK - Electrical Engineering, Electronics
-8. U - Military Science
-9. Z - Library Science, Information Resources
-10. KF - Law of the United States
 
 If we dive further into each of the above LCC subjects we can pull out numbers and their corresponding subject areas:
 
 1. B808.9: Philosophy of mind
 2. HF5415.33: Consumer behavior and marketing
 3. QA76.76.C672: Computer programming languages, specifically C++
-4. PS3557.R5355: American literature, author Ray Bradbury
-5. QH541.5.S3: Environmental science, specifically soil science
-6. RC480.6: Psychiatry, specifically psychotherapy
-7. TK5105.888: Internet and World Wide Web technology
-8. U264: Military engineering and construction
-9. Z678: Library science, specifically library management
-10. KF4550: United States constitutional law
 
 These letters represent the broad subject categories within the LCC system. Each category encompasses a wide range of topics, and the numbers and additional letters provide more specific classifications within those categories.
 
