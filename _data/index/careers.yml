@@ -1,13 +1,18 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Boston, Connecticut, Rhode Island
+    detail:  Utah
     i18n: 
   desc:
-    detail: Allie and I will be heading to Connecticut for our friends' wedding. We will fly into Boston, MA and explore Salem for the day. Then we'll trek southwest to Hartford. We'll Finish off the last leg of the trip in Mystic, CT and Providence, RI.
+    detail: 
+Day 1: Friday, February 16th - Depart from Gilbert, AZ at 5 am and drive to Moab, Utah. The suggested stops along the way are Valley of the Gods and Dead Horse Point State Park. Arrive in Moab in the afternoon and check into the hotel. Dinner at a local spot in Moab.
+
+Day 2: Saturday, February 17th - Visit Arches National Park. The suggested hiking trails are Delicate Arch Trail (3 miles), Landscape Arch Trail (1.6 miles), and Double Arch Trail (0.5 miles). Other hike options include Broken Arch Trail, Balanced Rock, Tower Arch, and Windows Loop Trail. Dinner back in Moab.
+
+Day 3: Sunday, February 18th - Drive 45 minutes from Moab to Canyonlands National Park (sky district). Stop at the visitor's center and then proceed to hike Mesa Arch Trail (0.5 miles), Grand View Point Trail (2 miles), and/or Upheaval Dome Trail (1.8 miles). Another option is the Aztec Butte Trail (2.6 miles). Leave Canyonlands by 2 pm to drive back home and arrive by 9-10 pm.
     i18n: 
   date:
-    detail: May 2023
+    detail: Feb 16th-18th
     i18n:
   job:
     detail: Hey
