@@ -45,9 +45,9 @@ Creating a home library featuring books from every classification number is an a
 
 A: General Works.
 
-AE: Encyclopedias
+  AE: Encyclopedias
 
-AG: Dictionaries
+    AG: Dictionaries
 
 AI: General Indexes
 
