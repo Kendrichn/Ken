@@ -18,8 +18,8 @@
 - name: Hobbies
   href: /hobbies/
 
-- name: Bucket List
-  href: /bucket list/
+- name: Resources
+  href: /resources/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
