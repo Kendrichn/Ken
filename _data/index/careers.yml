@@ -1,44 +1,44 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail:  Utah
+    detail:  place**
     i18n: 
   desc:
-    detail: Friday, February 16th - Depart from Gilbert, AZ at 5 am and drive to Moab, Utah. The suggested stops along the way are Valley of the Gods and Dead Horse Point State Park. Arrive in Moab in the afternoon and check into the hotel. Dinner at a local spot in Moab.Saturday, February 17th - Visit Arches National Park. The suggested hiking trails are Delicate Arch Trail (3 miles), Landscape Arch Trail (1.6 miles), and Double Arch Trail (0.5 miles). Other hike options include Broken Arch Trail, Balanced Rock, Tower Arch, and Windows Loop Trail. Dinner back in Moab.Sunday, February 18th - Drive 45 minutes from Moab to Canyonlands National Park (sky district). Stop at the visitor's center and then proceed to hike Mesa Arch Trail (0.5 miles), Grand View Point Trail (2 miles), and/or Upheaval Dome Trail (1.8 miles). Another option is the Aztec Butte Trail (2.6 miles). Leave Canyonlands by 2 pm to drive back home and arrive by 9-10 pm.
+    detail: detail here**
     i18n: 
   date:
-    detail: Feb 16th-18th
+    detail: date range**
     i18n:
   job:
-    detail: Hey
+    detail: place
     i18n:
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: New Jersey
+    detail: place**
     i18n:
   desc:
-    detail: We are headed to
+    detail: detail here**
     i18n:
   date:
     detail: July 2023
     i18n:
   job:
-    detail: HEY
+    detail: date range**
     i18n:
   icon: fa-plus-square
   
 - name:
-    detail: Montana, Washington, Alaska
+    detail: place**
     i18n:
   desc:
-    detail: Wedding Season. Allie and I will travel to Glacier National Park in Montana for our Bachelor/Bachelorette party. We'll then head west to Spokane, WA for our wedding before our big send-off from Seattle on our Alaskan Honeymoon Cruise.
+    detail: details**.
     i18n:
   date:
     detail: September 2023
     i18n:
   job:
-    detail: Hey
+    detail: date range**
     i18n:
   icon: fa-plus-square
