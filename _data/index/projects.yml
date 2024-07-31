@@ -42,3 +42,9 @@
   url: https://ropewiki.com/index.php?limit=50&tagfilter=&title=Special%3AContributions&contribs=user&target=Kendrich&namespace=&year=2024&month=-1
   img: /static/assets/img/landing/goodreads.png
   desc: My Canyoneering
+
+- name: Spotify
+  i18n: 
+  url: https://open.spotify.com/playlist/2XDWMeM2DKgKGknIdFbRNR?si=SBTrfWEhQGGk40lqXSGa9g&pi=jnzMYn3sQTSvB
+  img: /static/assets/img/landing/goodreads.png
+  desc: My Podcasts
