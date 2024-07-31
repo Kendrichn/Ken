@@ -35,4 +35,10 @@
   i18n: 
   url: https://boxd.it/7GEVJ
   img: /static/assets/img/landing/goodreads.png
-  desc: Letterboxd
+  desc: My Movies
+
+- name: RopeWiki
+  i18n: 
+  url: https://ropewiki.com/index.php?limit=50&tagfilter=&title=Special%3AContributions&contribs=user&target=Kendrich&namespace=&year=2024&month=-1
+  img: /static/assets/img/landing/goodreads.png
+  desc: My Canyoneering
