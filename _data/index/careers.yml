@@ -10,7 +10,7 @@
     detail: date range**
     i18n:
   job:
-    detail: place
+    detail: hey**
     i18n:
   icon: fa-plus-square
   present: true
@@ -22,10 +22,10 @@
     detail: detail here**
     i18n:
   date:
-    detail: July 2023
+    detail: date range**
     i18n:
   job:
-    detail: date range**
+    detail: hey**
     i18n:
   icon: fa-plus-square
   
@@ -36,9 +36,9 @@
     detail: details**.
     i18n:
   date:
-    detail: September 2023
+    detail: date range**
     i18n:
   job:
-    detail: date range**
+    detail: hey**
     i18n:
   icon: fa-plus-square
